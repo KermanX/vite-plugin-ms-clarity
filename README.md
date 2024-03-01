@@ -22,7 +22,7 @@ defineConfig({
 });
 ```
 
-You can also use a object as the potions defined below.
+You can also use an object as the option:
 
 ```js
 MsClarify({
